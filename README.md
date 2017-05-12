@@ -1,3 +1,5 @@
 # SandrAppKeys
 
-Progetto da importare in AndroidStudio per il test "Sandroide - Progetto Chiavi".
+1)Create a Sandroide based Android Studio Project(As tutorial)
+2)Overwrite the "src" folder into Main
+3)Troubleshoot for grade dependencies and config
